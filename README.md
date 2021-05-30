@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @talha196
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning compiler and interpreter construction in C++
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Talha Zafar
+- 👀 I’m interested in embedded software development, deployment of models on end nodes, interpreter design in C++
+- 📚 I’m currently studying at Technical University of Munich
 - 📫 How to reach me talhazfr96@gmail.com
 
 <!---
