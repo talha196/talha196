@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Talha Zafar
 - 👀 I’m interested in embedded software development, deployment of models on end nodes, interpreter design in C++
 - 📚 I’m currently studying at Technical University of Munich
-- 📫 How to reach me talhazfr96@gmail.com
+- 📫 How to reach me talhazfr96@gmail.com , 14beetzafar@seecs.edu.pk, ge73tam@tum.de
 
 <!---
 talha196/talha196 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
